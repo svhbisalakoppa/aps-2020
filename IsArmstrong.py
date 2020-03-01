@@ -30,4 +30,4 @@ def isArmstrong (x):
 	# If condition satisfies 
 	return (sum1 == x) 
 
-print(isArmstrong(int(input()))
+print(isArmstrong(int(input())))
