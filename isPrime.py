@@ -5,4 +5,4 @@ def isPrime(n):
         if n % i == 0: 
             return False; 
     return True
-print(isPrime(int(input())
+print(isPrime(int(input())))
