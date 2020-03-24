@@ -59,5 +59,4 @@ graph = [[0, 1, 1, 0],
 		[1, 1, 0, 1], 
 		[0, 1, 1, 0]] 
 
-print("Total number of Triangle in Graph :", 
-					triangleInGraph(graph)) 
+print("Total number of Triangle in Graph :", triangleInGraph(graph)) 
