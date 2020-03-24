@@ -56,5 +56,3 @@ def printEmirp(n):
 # Driver Code 
 n = 100; 
 printEmirp(n); 
-
-# This code is contributed by mits 
