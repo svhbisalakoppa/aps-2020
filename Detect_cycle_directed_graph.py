@@ -54,5 +54,3 @@ if g.isCyclic() == 1:
 	print "Graph has a cycle"
 else: 
 	print "Graph has no cycle"
-
-# Thanks to Divyanshu Mehta for contributing this code 
