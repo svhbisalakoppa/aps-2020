@@ -88,5 +88,3 @@ def solveNQ():
 
 # Driver Code 
 solveNQ() 
-
-# This code is contributed by Divyanshu Mehta 
