@@ -82,5 +82,3 @@ if __name__ == "__main__":
 	n = len(arr) 
 	print("The maximum possible height of stack is", 
 		maxStackHeight(arr, n)) 
-
-# This code is contributed by vibhu4agarwal 
