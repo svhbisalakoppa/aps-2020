@@ -22,5 +22,3 @@ arr = gnomeSort(arr, n)
 print "Sorted seqquence after applying Gnome Sort :", 
 for i in arr: 
 	print i, 
-
-# Contributed By Harshit Agrawal 
