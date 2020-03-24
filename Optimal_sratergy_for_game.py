@@ -51,6 +51,3 @@ print(optimalStrategyOfGame(arr2, n))
 arr3 = [ 20, 30, 2, 2, 2, 10] 
 n = len(arr3) 
 print(optimalStrategyOfGame(arr3, n)) 
-
-# This code is contibuted 
-# by sahilshelangia 
