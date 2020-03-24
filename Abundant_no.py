@@ -45,5 +45,3 @@ if(checkAbundant(15) == 1) :
 	print "YES"
 else : 
 	print "NO"
-	
-# This code is contributed by Nikita Tiwari. 
