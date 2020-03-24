@@ -22,5 +22,3 @@ def printCountRec(dist):
 # Driver code 
 dist = 4
 print(printCountRec(dist)) 
-
-# This code is contributed by Anant Agarwal. 
