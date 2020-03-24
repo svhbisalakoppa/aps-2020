@@ -97,5 +97,3 @@ if __name__ == '__main__':
 			[0, 0, 0, 2, 0, 2], 
 			[0, 0, 0, 2, 2, 0]] 
 	findcost(n2, city2) 
-
-# This code is contributed by PranchalK 
