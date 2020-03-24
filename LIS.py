@@ -58,5 +58,3 @@ def lis(arr):
 arr = [10 , 22 , 9 , 33 , 21 , 50 , 41 , 60] 
 n = len(arr) 
 print "Length of lis is ", lis(arr) 
-
-# This code is contributed by NIKHIL KUMAR SINGH 
