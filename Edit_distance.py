@@ -31,5 +31,3 @@ def editDistance(str1, str2, m, n):
 str1 = "sunday"
 str2 = "saturday"
 print editDistance(str1, str2, len(str1), len(str2)) 
-
-# This code is contributed by Bhavya Jain 
