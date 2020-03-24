@@ -42,5 +42,3 @@ index = jumpSearch(arr, x, n)
 
 # Print the index where 'x' is located 
 print("Number" , x, "is at index" ,"%.0f"%index) 
-
-# This code is contributed by "Sharad_Bhardwaj". 
