@@ -45,6 +45,3 @@ combSort(arr)
 print ("Sorted array:") 
 for i in range(len(arr)): 
 	print (arr[i]), 
-
-
-# This code is contributed by Mohit Kumra 
