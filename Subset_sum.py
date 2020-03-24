@@ -32,4 +32,3 @@ if (isSubsetSum(set, n, sum) == True) :
 else : 
 	print("No subset with given sum") 
 	
-# This code is contributed by Nikita Tiwari. 
