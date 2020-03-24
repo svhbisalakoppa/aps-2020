@@ -48,5 +48,3 @@ cycleSort(arr)
 print("After sort : ") 
 for i in range(0, n) : 
 	print(arr[i], end = ' ') 
-
-# Code Contributed by Mohit Gupta_OMG <(0_o)> 
