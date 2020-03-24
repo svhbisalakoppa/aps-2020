@@ -114,5 +114,3 @@ dll.push(10);
 dll.head = dll.mergeSort(dll.head) 
 print "Linked List after sorting"
 dll.printList(dll.head) 
-
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007) 
