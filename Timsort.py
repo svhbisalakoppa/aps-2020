@@ -107,4 +107,3 @@ if __name__ == "__main__":
 	print("After Sorting Array is") 
 	printArray(arr, n) 
 	
-# This code is contributed by Rituraj Jain 
