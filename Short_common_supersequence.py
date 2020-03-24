@@ -44,5 +44,3 @@ Y = "GXTXAYB"
 
 print("Length of the shortest supersequence is %d"
 					% shortestSuperSequence(X, Y)) 
-
-# This code is contributed by Ansu Kumari 
