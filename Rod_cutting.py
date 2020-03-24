@@ -25,5 +25,3 @@ def cutRod(price, n):
 arr = [1, 5, 8, 9, 10, 17, 17, 20] 
 size = len(arr) 
 print("Maximum Obtainable Value is", cutRod(arr, size)) 
-
-# This code is contributed by 'Smitha Dinesh Semwal' 
