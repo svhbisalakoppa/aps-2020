@@ -115,5 +115,3 @@ if __name__ == '__main__':
 	li.head = li.mergeSort(li.head) 
 	print ("Sorted Linked List is:") 
 	printList(li.head) 
-
-# This code is contributed by Vikas Chitturi 
