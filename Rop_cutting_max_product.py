@@ -20,5 +20,3 @@ def maxProd(n):
 # Driver program to test above functions 
 print("Maximum Product is ", maxProd(10)); 
 	
-# This cide is contributed 
-# by Sumit Sudhakar 
