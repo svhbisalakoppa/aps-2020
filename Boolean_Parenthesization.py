@@ -72,6 +72,3 @@ n = len(symbols)
 # ((T|T)&(F^T)), (T|(T&(F^T))), 
 # (((T|T)&F)^T) and (T|((T&F)^T)) 
 print(countParenth(symbols, operators, n)) 
-
-# This code is contributed by 
-# sahil shelangia 
