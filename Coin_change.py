@@ -29,5 +29,3 @@ def count(S, m, n ):
 arr = [1, 2, 3] 
 m = len(arr) 
 print(count(arr, m, 4)) 
-
-# This code is contributed by Smitha Dinesh Semwal 
