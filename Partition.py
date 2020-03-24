@@ -47,4 +47,3 @@ if findPartion(arr, n) == True:
 else: 
 	print ("Can not be divided into two subsets of equal sum") 
 	
-# This code is contributed by shreyanshi_arun.	 
