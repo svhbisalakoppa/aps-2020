@@ -52,6 +52,3 @@ def solve(A, n) :
 A = [ 0, 0, 0, 2 ] 
 n = len(A) 
 print (solve(A, n)) 
-
-# This code is contributed by Manish Shaw 
-# (manishshaw1) 
