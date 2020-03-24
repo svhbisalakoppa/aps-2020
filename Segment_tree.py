@@ -74,16 +74,12 @@ def constructSTUtil(arr, ss, se, st, si) :
 
 		st[si] = arr[ss]; 
 		return arr[ss]; 
-
+	
 	# If there are more than one elements, 
 	# then recur for left and right subtrees 
 	# and store the minimum of two values in this node 
 	mid = getMid(ss, se); 
-	st[si] = minVal(constructSTUtil(arr, ss, mid, 
-									st, si * 2 + 1), 
-					constructSTUtil(arr, mid + 1, se, 
-									st, si * 2 + 2)); 
-	
+	st[si] = minVal(constructSTUtil(arr, ss, mid, st, si * 2 + 1), constructSTUtil(arr, mid + 1, se, st, si * 2 + 2)); 
 	return st[si]; 
 
 """Function to construct segment tree 
