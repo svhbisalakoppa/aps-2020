@@ -47,5 +47,3 @@ if index != -1:
 	print "Element found at index",index 
 else: 
 	print "Element not found"
-
-# This code is contributed by Harshit Agrawal 
