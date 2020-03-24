@@ -37,5 +37,3 @@ n = len(arr);
 
 print("Minimum number of multiplications is ", 
 				MatrixChainOrder(arr, 1, n-1)); 
-
-# This code is contributed by Aryan Garg 
