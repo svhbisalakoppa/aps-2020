@@ -36,5 +36,3 @@ if __name__ == "__main__":
 	k = 10
 	print("Minimum number of trials in worst case with", 
 		n, "eggs and", k, "floors is", eggDrop(n, k)) 
-
-# This code is contributed by ita_c 
