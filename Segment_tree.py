@@ -123,5 +123,3 @@ if __name__ == "__main__" :
 	# Print minimum value in arr[qs..qe] 
 	print("Minimum of values in range [", qs, 
 		",", qe, "]", "is =", RMQ(st, n, qs, qe)); 
-
-# This code is contributed by AnkitRai01 
