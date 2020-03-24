@@ -28,5 +28,3 @@ wt = [10, 20, 30]
 W = 50
 n = len(val) 
 print knapSack(W , wt , val , n) 
-
-# This code is contributed by Nikhil Kumar Singh 
