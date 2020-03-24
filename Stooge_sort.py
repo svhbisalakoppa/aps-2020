@@ -36,4 +36,3 @@ stoogesort(arr, 0, n-1)
 for i in range(0, n): 
     print(arr[i], end = ' ') 
   
-# Code Contributed by Mohit Gupta_OMG <(0_o)>
