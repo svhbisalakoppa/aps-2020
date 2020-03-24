@@ -113,5 +113,3 @@ M = [[1, 2, -1, -4, -20],
 	[-4, -1, 1, 7, -6]] 
 
 findMaxSum(M) 
-
-# This code is contributed by PranchalK 
