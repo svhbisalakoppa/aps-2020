@@ -90,5 +90,3 @@ if __name__ == '__main__':
 			-99, 4, 189, -1, 4] 
 	n = len(arr) 
 	tugOfWar(arr, n) 
-
-# This code is contributed by PranchalK 
