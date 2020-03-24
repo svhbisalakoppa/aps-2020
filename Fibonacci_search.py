@@ -63,5 +63,3 @@ n = len(arr)
 x = 85
 print("Found at index:", 
       fibMonaccianSearch(arr, x, n)) 
-  
-# This code is contributed by rishabh_jain 
