@@ -14,4 +14,3 @@ def catalan(n):
 # Driver Program to test above function 
 for i in range(10): 
 	print catalan(i), 
-# This code is contributed by Nikhil Kumar Singh (nickzuck_007) 
